@@ -490,6 +490,10 @@ section3 p{
                 transition-duration: 400ms;
 }
 
+#continue-button-link{
+        text-decoration: none;
+}
+
 #footer{
         background-color: #000000;
         color: white;
